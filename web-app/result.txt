@@ -1,0 +1,16 @@
+banana
+150
+apple
+50
+pear
+150
+pineapple
+50
+orange
+150
+cucumber
+50
+banana
+150
+apple
+50
